@@ -1,0 +1,6 @@
+<manifest>
+	<remote name="mikiproj" fetch="https://github.com/mikilauda95" />
+	<default revision="refs/heads/master" remote="mikiproj" sync-j="4" />
+	<project name="dotfiles" remote="mikiproj" path="mydot"/>
+	<project name="software_development" remote="mikiproj" path="softdev"/>
+</manifest>
